@@ -1,0 +1,31 @@
+meteomatics
+seaborn
+pandas
+numpy
+datetime
+ephem
+tqdm
+sklearn
+statsmodels
+schedule
+
+#jupyter notebook visualisation
+nbformat
+plotly
+#plotly-resampler
+
+folium
+mapclassify
+geopandas
+matplotlib
+geopy
+shapely
+
+#App
+streamlit
+
+#Services
+telethon    #telegram
+
+#Databases
+#mysql-connector
