@@ -125,7 +125,6 @@ def make_prediction(df, model, ct):
         
         #check for same column names, order and check for shape
         X_prod = X_prod[model["X"].columns]
-        print("")
         forcast = pd.DataFrame()
         
         for criterion in model["criterions"].keys():

@@ -5,7 +5,7 @@ further_lecture/
 src/models/
 
 # ignore Telegram Session
-.session
+*.session
 
 # ignore cache
 cache/

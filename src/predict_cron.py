@@ -27,7 +27,7 @@ if __name__ == "__main__":
             print("define jobs...")
             schedule.every(2).minutes.do(prediction.load_latest_datasets, models=ML_MODELS, ct=CT)
             first = False
-            print("start loop...")
+            print("start loop every 2min...")
             
         schedule.run_pending()
         time.sleep(1)
