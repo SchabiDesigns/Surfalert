@@ -1,9 +1,6 @@
 # ignore further lecture
 further_lecture/
 
-# ignore models
-src/models/
-
 # ignore Telegram Session
 *.session
 
